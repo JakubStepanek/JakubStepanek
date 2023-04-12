@@ -11,7 +11,7 @@
 <tbody>
 <tr>
    <td>
-    <a href="https://github.com/JakubStepanek/KSA-LOG-M" alt="LOG"/></a>
+    <a href="https://github.com/JakubStepanek/KSA-LOG-M"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jakubstepanek&repo=ksa-log-m&theme=github_dark&cache_seconds=86400" alt="LOG"/></a>
   </td>
 </tbody>
 </table>
