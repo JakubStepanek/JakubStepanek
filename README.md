@@ -7,14 +7,6 @@
 
 ---
 <h2 align="center">TUL</h2>
-<table>
-<tbody>
-<tr>
-   <td>
-    <a href="https://github.com/JakubStepanek/KSA-LOG-M"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jakubstepanek&repo=ksa-log-m&theme=github_dark&cache_seconds=86400" alt="LOG"/></a>
-  </td>
-</tbody>
-</table>
 
 <p align="center">
     <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/JakubStepanek?color=004E92&style=for-the-badge&logo=github&label=Follow"/>
